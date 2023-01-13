@@ -5,7 +5,7 @@ import {
   IOSConfig,
   createRunOncePlugin,
   withPlugins,
-} from 'expo/config-plugins';
+} from '@expo/config-plugins';
 
 const pkg = require('@react-native-google-signin/google-signin/package.json');
 
